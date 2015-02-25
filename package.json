@@ -13,5 +13,13 @@
     "containership.plugin": "^0.1.1",
     "lodash": "^3.0.0",
     "quarry-dns": "^0.5.2"
-  }
+  },
+  "keywords": [
+    "service",
+    "discovery",
+    "service-discovery",
+    "containership",
+    "dns",
+    "haproxy"
+   ]
 }
