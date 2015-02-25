@@ -1,6 +1,6 @@
 {
   "name": "containership.plugin.service-discovery",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "dependencies": {
     "async": {
       "version": "0.9.0",
@@ -8,8 +8,8 @@
       "resolved": "https://registry.npmjs.org/async/-/async-0.9.0.tgz"
     },
     "containership.plugin": {
-      "version": "0.1.0",
-      "from": "containership.plugin@"
+      "version": "0.1.1",
+      "from": "containership.plugin@^0.1.1"
     },
     "lodash": {
       "version": "3.0.0",
