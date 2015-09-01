@@ -1,6 +1,6 @@
 {
   "name": "containership.plugin.service-discovery",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "A service discovery plugin for ContainerShip",
   "main": "application.js",
   "scripts": {
